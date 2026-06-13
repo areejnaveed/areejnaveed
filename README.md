@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋
+
+- 🎓 I'm Areej, a final-year Economics student at Lahore School of Economics (Minor in Mathematics & Data Analysis)
+- 📊 Passionate about data analytics, business intelligence, and using data to solve real-world problems
+- 🛠️ Tools I work with: Excel (Advanced), Power BI, SQL, STATA, Tableau, Python (basics)
+- 📈 Some of my work: econometric analysis on cross-country datasets, operational data analysis (10,000+ records), and dashboard building
+- 🎯 Currently exploring opportunities in data analytics internships and preparing for a master's in Data Analytics
+- 📫 Reach me at: areejnaveed6@gmail.com | [LinkedIn](https://linkedin.com/in/areejnaveed6)
 
 <!--
 **areejnaveed/areejnaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
